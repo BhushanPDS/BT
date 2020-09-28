@@ -1,0 +1,51 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+.bg-secondary{background-color: rgb(15 123 224 / 77%)!important;}
+.carousel-caption h5{ 
+font-size:45px;
+text-transform:uppercase;
+letter-spacing:2px;
+margin-top:20px;
+margin-bottom:20px;
+font-weight:bold;
+
+}
+.card-text a:hover{text-decoration:none;
+		}
+.card{b}
+.btn-danger{background-color:#fb0f26;}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+font-family:popins;
+font-size:18px;
+font-weight:bold;
+
+    
+
+}
+.navbar-light .navbar-nav .nav-link:hover{color:red;}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav.link
+{
+color:red;
+}
+.container-fluid .text-center{background-image:url('/home/thinkitive/Pictures/Screen.png');}
+
+
+.fa{
+font-size:30px;
+}
+.fa:hover{
+text-decoration:none;
+
+
+}
+.card1{border:1px solid green;}
+.card .row .no-gutters .col-md-4 .col-md-8:hover{color:red;}
+
+/* Bhushan Nandu Varade */
